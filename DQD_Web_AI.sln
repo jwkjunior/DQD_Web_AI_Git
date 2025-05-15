@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "DQD_Web_AI", "DQD_Web_AI\DQD_Web_AI.esproj", "{0F3F7654-A36C-49E7-9D9E-F4A9C05F3CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D21D12DC-FF04-4AFB-BC12-1EF5630D9530}"
+	ProjectSection(SolutionItems) = preProject
+		AI_Caller.py = AI_Caller.py
+		DQD_HTML5_JS_CSS_Node_Page1.css = DQD_HTML5_JS_CSS_Node_Page1.css
+		DQD_HTML5_JS_CSS_Node_Page1.html = DQD_HTML5_JS_CSS_Node_Page1.html
+		DQD_HTML5_JS_CSS_Node_Page1.js = DQD_HTML5_JS_CSS_Node_Page1.js
+		DQD_HTML5_JS_CSS_Node_Page2.html = DQD_HTML5_JS_CSS_Node_Page2.html
+		DQD_HTML5_JS_CSS_Node_Page2.js = DQD_HTML5_JS_CSS_Node_Page2.js
+		DQD_Web_AI\.vscode\index.html = DQD_Web_AI\.vscode\index.html
+		SaveToDB_and_Use_AI.js = SaveToDB_and_Use_AI.js
+		USAF_Loggo.png = USAF_Loggo.png
+		utils.py = utils.py
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test_Folder", "Test_Folder", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		HelloWorld.py = HelloWorld.py
+		hello_world.txt = hello_world.txt
+		server.js = server.js
+		TestHTML_JS.html = TestHTML_JS.html
+		utils_Temp2.py = utils_Temp2.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3F7654-A36C-49E7-9D9E-F4A9C05F3CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3F7654-A36C-49E7-9D9E-F4A9C05F3CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3F7654-A36C-49E7-9D9E-F4A9C05F3CF0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0F3F7654-A36C-49E7-9D9E-F4A9C05F3CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3F7654-A36C-49E7-9D9E-F4A9C05F3CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3F7654-A36C-49E7-9D9E-F4A9C05F3CF0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {D21D12DC-FF04-4AFB-BC12-1EF5630D9530}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7ECEB76-1067-473A-B767-26688FEF6340}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+{
+  "name": "dqd_web_ai",
+  "version": "0.0.0",
+  "description": "DQD_Web_AI",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  },
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  }
+}
